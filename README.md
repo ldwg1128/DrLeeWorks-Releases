@@ -7,8 +7,6 @@ Source code is maintained separately.
 ## Software
 
 - Shorts Player
-- Vector Trace
-- Capture Tool
-- Pointer Tool
+- will be updated
 
 Please use the Releases section to download the latest versions.
